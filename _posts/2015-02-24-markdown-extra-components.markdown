@@ -177,3 +177,8 @@ Do you want some videos? Youtube, Vimeo or Vevo? Copy the embed code and paste o
 [4]: http://daringfireball.net/projects/markdown/basics
 [5]: http://daringfireball.net/projects/markdown/syntax
 [6]: http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg
+
+
+## Lets try some math here
+
+$$ \mathbf{X}\_{n,p} = \mathbf{A}\_{n,k} \mathbf{B}\_{k,p} $$
