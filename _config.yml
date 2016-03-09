@@ -11,10 +11,10 @@ url: http://kpdir.github.io
 
 permalink: /:title/
 
-markdown: kramdown
+markdown: redcarpet
 highlighter: rouge
 
-#analytics-google: ''
+analytics-google: 'UA-74951206-1'
 
 # if you don't want comments in your posts, set to false
 disqus: mydisqus
