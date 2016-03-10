@@ -1,11 +1,11 @@
 ---
-title: About
+title: About Me
 layout: page
 permalink: /about/index.html
 ---
 <!-- ![Profile Image]({{ site.url }}/{{ site.picture }}) -->
 
-<h2> About me </h2>
+#<h2> About me </h2>
 
 <p>
 Hi, I'm a data analyst based in Vancouver, BC. I enjoy working on a variety of problems both scientific and business related. I apply my understanding of statistical inference, statistical learning, signal processing and optimization to derive insights from data and help make predictions. My current work is focussed on predictive-analytics and web-analytics. I am also a machine learning enthusiast, a free and open source software enthusiast and a scientific computing enthusiast. I love fast algorithms, clever code bits, and beautiful plots that say a lot. I subscribe to the ideology that code should be very readable and highly re-usable under most if not all circumstances.
