@@ -11,7 +11,7 @@ url: http://kpdir.github.io
 
 permalink: /:title/
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge
 
 analytics-google: 'UA-74951206-1'
@@ -39,8 +39,8 @@ email: kedarpage@gmail.com
 width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
-# paginate: 5
-# paginate_path: "blog/:num/"
+ paginate: 5
+ paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
