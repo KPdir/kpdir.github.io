@@ -11,7 +11,7 @@ permalink: /about/index.html
 Hi, I'm a data analyst based in Vancouver, BC. I like working on a variety of problems both scientific and business related. More specifically I apply my knowledge of statistical inference, statistical learning and optimization to derive insights from data and help make predictions.
 
 Previously, as a researcher in the area of experimental particle physics,
-I worked on statistical data analysis for the dark-matter search experiment ![SuperCDMS](https://en.wikipedia.org/wiki/Cryogenic_Dark_Matter_Search/). I love exploring the data-verse with a number of tools that I have picked up and continue to.  
+I worked on statistical data analysis for the dark-matter search experiment <a href="https://en.wikipedia.org/wiki/Cryogenic_Dark_Matter_Search/">SuperCDMS</a>. I love exploring the data-verse with a number of tools that I have picked up and continue to.  
 
 </p>
 
