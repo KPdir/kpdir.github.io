@@ -11,7 +11,7 @@ permalink: /about/index.html
 Hi, I'm a data analyst based in Vancouver, BC. I enjoy working on a variety of problems both scientific and business related. I apply my understanding of statistical inference, statistical learning, signal processing and optimization to derive insights from data and help make predictions. My current work is focussed on predictive-analytics and web-analytics. I am also a machine learning enthusiast, a free and open source software enthusiast and a scientific computing enthusiast. I love fast algorithms, clever code bits, and beautiful plots that say a lot. I subscribe to the ideology that code should be very readable and highly re-usable under most if not all circumstances.
 <br><br>
 
-My other favourite activities include soccer, badminton, teaching <a href="http://software-carpentry.org/">SoftwareCarpentry</a> workshops and spoiling my saturdays in the hope of understanding economics.
+My other favourite activities include soccer, badminton, hiking, teaching <a href="http://software-carpentry.org/">SoftwareCarpentry</a> workshops and spoiling my saturdays in the hope of understanding economics.
 <br><br>
 
 Previously, as a researcher in the area of experimental particle physics,
