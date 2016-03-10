@@ -4,7 +4,8 @@ layout: page
 permalink: /about/index.html
 ---
 <!-- ![Profile Image]({{ site.url }}/{{ site.picture }}) -->
-### Kedar Page
+
+<h2> Kedar Page <2>
 
 <p>
 Hi, I'm a data analyst based in Vancouver, BC. I like working on a variety of problems both scientific and business related. More specifically I apply my knowledge of statistical inference, statistical learning and optimization to derive insights from data and help make predictions.
@@ -21,6 +22,8 @@ consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
+
+<!--
 <h2>Skills</h2>
 
 <ul class="skill-list">
@@ -47,3 +50,5 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
+
+-->
