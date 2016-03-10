@@ -32,6 +32,7 @@ disqus: kpdirblog
 linkedin: kedarpage
 github: kpdir
 email: kedarpage@gmail.com
+rssfeed: true
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -39,8 +40,8 @@ email: kedarpage@gmail.com
 width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
- paginate: 5
- paginate_path: "blog/:num/"
+ #paginate: 5
+ #paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
