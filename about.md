@@ -5,23 +5,15 @@ permalink: /about/index.html
 ---
 <!-- ![Profile Image]({{ site.url }}/{{ site.picture }}) -->
 
-<h2> Kedar Page <2>
+<h2> Kedar Page </h2>
 
 <p>
 Hi, I'm a data analyst based in Vancouver, BC. I like working on a variety of problems both scientific and business related. More specifically I apply my knowledge of statistical inference, statistical learning and optimization to derive insights from data and help make predictions.
 
 Previously, as a researcher in the area of experimental particle physics,
-I worked on statistical data analysis for the dark-matter search experiment [SuperCDMS](https://en.wikipedia.org/wiki/Cryogenic_Dark_Matter_Search). I love exploring the data-verse with a number of tools that I have picked up and continue to.  
+I worked on statistical data analysis for the dark-matter search experiment [SuperCDMS](https://en.wikipedia.org/wiki/Cryogenic_Dark_Matter_Search/). I love exploring the data-verse with a number of tools that I have picked up and continue to.  
 
 </p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
 
 <!--
 <h2>Skills</h2>
