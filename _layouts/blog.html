@@ -5,7 +5,7 @@ title: Blog
 {% include header.html %}
 
 <section class="list">
-	{% if site.posts.size == 0 %}
+<!---	{% if site.posts.size == 0 %}
 		<p class="text-center">Nothing published yet!</p>
 	{% elsif site.paginate %}
 		{% for post in paginator.posts %}
@@ -15,11 +15,11 @@ title: Blog
 		{% if site.paginate %}
 			{% include pagination.html%}
   {% endif %}
-	{% else %}
+	{% else %} -->
 		{% for post in site.posts %}
 			{% include blog-post.html %}
 		{% endfor %}
-	{% endif %}
+<!--	{% endif %} -->
 </section>
 
 {% include footer.html %}
