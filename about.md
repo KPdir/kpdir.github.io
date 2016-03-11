@@ -19,5 +19,5 @@ I worked on statistical data analysis and particle detector research and develop
 Some of my projects during this time are described under <a href="http://kpdir.github.io/projects/">Projects</a>.
 <br><br>
 
-Feel free to <a class="link" data-title="kedarpage@gmail.com" href="mailto:kedarpage@gmail.com" target="_blank">email</a> me if you'd like to get in touch.
+Feel free to email me if you'd like to get in touch.
 </p>
