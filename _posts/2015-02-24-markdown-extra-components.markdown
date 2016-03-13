@@ -7,6 +7,7 @@ tag:
 - components
 - extra
 blog: true
+draft: false
 ---
 
 ## Summary:

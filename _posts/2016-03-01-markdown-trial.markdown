@@ -5,6 +5,7 @@ date: 2016-03-01 14:48
 tag:
 - markdown
 blog: true
+draft: false
 ---
 
 ## Summary:
