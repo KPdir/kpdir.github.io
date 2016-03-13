@@ -399,17 +399,17 @@ pre {
 @media only screen and (max-width: 400px) {
   .wrapper-normal,
   .wrapper-large {
-    width: 88%;
+    width: 95%; /* change from 88% to 95% */
   }
 }
 @media only screen and (min-width: 400px) and (max-width: 1050px) {
   .wrapper-normal,
   .wrapper-large {
-    width: 88%;
+    width: 95%; /* change from 88% to 95% */
   }
 }
 .wrapper-normal {
-  max-width: 560px;
+  max-width: 820px; /* change from 560px to 820px */
 }
 .wrapper-large {
   max-width: 810px;
