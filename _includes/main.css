@@ -1185,27 +1185,3 @@ pre {
   -webkit-transition: all ease-in-out 0.2s;
           transition: all ease-in-out 0.2s;
 }
-
-/*  Add changes from Arti: https://github.com/aannasw/aannasw.github.io
-to adjust css for tags in blog index page */
-
-.tagblog {
-	font-variant: small-caps;
-	font-size: 1.4rem;
-	padding: 0 3px 3px 3px;
-	color: #666;
-	letter-spacing: 1px;
-}
-
-
-
-.tagpost {
-	font-variant: small-caps;
-	padding: 3px 6px;
-	border-radius: 3px;
-	font-size: 1.1rem;
-	background: #ededed;
-	color: #666;
-	letter-spacing: 1px;
-	margin: 0 0.5rem;
-}
