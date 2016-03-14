@@ -6,7 +6,7 @@ tag: jekyll
 img: indigo/indigo.png
 projects: true
 description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
-jemoji: :registered:
+jemoji: '<img class="emoji" title=":books:" alt=":books:" src="https://assets.github.com/images/icons/emoji/unicode/1f4da.png" height="20" width="20" align="absmiddle">'
 ---
 ![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/screen-shot.png)
 
