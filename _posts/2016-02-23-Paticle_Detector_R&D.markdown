@@ -1,7 +1,7 @@
 ---
 title: "Particle Detector R&D"
 layout: post
-date: 2013
+date: 2013-01-23
 tag: jekyll
 img: indigo/indigo.png
 projects: true
