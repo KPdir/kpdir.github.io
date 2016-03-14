@@ -1,10 +1,19 @@
 {% if post.blog == true %}
   {% if post.draft == false %} <!-- Add this to have drafts -->
-    <div class="item {% if post.star %}star{% endif %}">
-        <a class="url" href="{{ site.url }}{{ post.url }}">
-            <aside class="date"><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
-          <h3 class="title">{{ post.title }}</h3>
-        </a>
-    </div>
+      {% if post.projects == true %} <!-- Add this to have drafts -->
+            <div class="item {% if post.star %}star{% endif %}">
+                <a class="url" href="{{ site.url }}{{ post.url }}">
+                    <aside class="date"><time datetime="{{ post.date | date:"%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
+                  <h3 class="title">{{ post.title }}</h3>
+                </a>
+            </div>
+      {% else %}
+          <div class="item {% if post.star %}star{% endif %}">
+              <a class="url" href="{{ site.url }}{{ post.url }}">
+                  <aside class="date"><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
+                <h3 class="title">{{ post.title }}</h3>
+              </a>
+          </div>
+    {% endif %}
   {% endif %} <!-- Add this to have drafts -->
 {% endif %}
