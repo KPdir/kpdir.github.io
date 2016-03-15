@@ -947,6 +947,7 @@ pre {
 }
 .smaller-image {
   width: 300px;
+  align: "center"
 }
 @media only screen and (max-width: 400px) {
   .bigger-image {
