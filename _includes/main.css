@@ -945,6 +945,10 @@ pre {
   min-width: 130%;
   margin: 5rem 0 5rem -15%;
 }
+.smaller-image {
+  width: 300px;
+  margin: 5rem 0 5rem -15%;
+}
 @media only screen and (max-width: 400px) {
   .bigger-image {
     min-width: 114%;
