@@ -18,7 +18,7 @@ Direct dark matter search is very active research area in experimental particle 
 The detector in use had phonon sensors arranged on both the top and bottom sides as shown in [figure 1](), it also
 
 <div>
-<table border="1", align="center", cellpadding="10">
+<table border="1">
   <tr>
     <td>
 
