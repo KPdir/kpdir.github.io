@@ -17,10 +17,9 @@ Direct dark matter search is very active research area in experimental particle 
 
 The detector in use had phonon sensors arranged on both the top and bottom sides as shown in [figure 1](), it also
 
-<figure>
-  <img src="{{ site.relrefurl }}/Site_Materials/figures/det_izp_photo.png" width="300" align="center"> <br>
-  <figcaption align="center"> A photo of superCDMS detector. Source: <a href="http://scitation.aip.org/content/aip/journal/apl/103/16/10.1063/1.4826093"> AIP journal article 2013</a></figcaption>
-</figure>
+|  <img src="{{ site.relrefurl }}/Site_Materials/figures/det_izp_photo.png" width="300" align="center"> |
+|-----------------------------|
+| A photo of superCDMS detector. Source: <a href="http://scitation.aip.org/content/aip/journal/apl/103/16/10.1063/1.4826093"> AIP journal article 2013</a> |
 
 
 #A photo of superCDMS detector.<br> Source: #http://scitation.aip.org/content/aip/journal/apl/103/16/10.1063/1.4826093
