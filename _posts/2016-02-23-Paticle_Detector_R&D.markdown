@@ -22,7 +22,7 @@ The SuperCDMS particle detectors used at Soudan are cryogenic semiconductor dete
 
 |  <img src="{{ site.relrefurl }}/Site_Materials/figures/det_izp_photo.png" width="400" align="center"> |
 |-----------------------------|
-|Figure.1: A photo of superCDMS detector. Source: <a href="http://scitation.aip.org/content/aip/journal/apl/103/16/10.1063/1.4826093"> AIP journal article 2013</a> |
+|Figure.1: A photo of superCDMS detector. Source: AIP Appl. Phys. Lett. article 2013, <http://dx.doi.org/10.1063/1.4826093> |
 
 
 
@@ -39,7 +39,7 @@ This is typically illustrated in a transformed parameter space of Yeild vs recoi
 
 |  <img src="{{ site.relrefurl }}/Site_Materials/figures/er_nr.png" width="400" align="center"> |
 |-----------------------------|
-|Figure.2: Yield vs recoil-energy for Electron-Recoils and Nuclear-Recoils. Source: <http://dx.doi.org/10.1103/PhysRevD.72.052009>|
+|Figure.2: Yield vs recoil-energy for Electron-Recoils and Nuclear-Recoils. Source: APS Phys. Rev. D article 2005, <http://dx.doi.org/10.1103/PhysRevD.72.052009>|
 
 
 
