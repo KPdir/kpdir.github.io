@@ -36,10 +36,11 @@ The technology of these sensors is very fascinating in itself and rather involve
 
 This is typically illustrated in a transformed parameter space of Yeild vs recoil-energy, where recoil-energy is the true energy deposited by the incoming particle and Yield is the ratio of the ionization signal and the recoil-energy. With the use of data generated from known sources of particles for calibration we arrive at regions of Electron-Recoils and Nuclear-Recoils in this transformed parameter space. Figure.3 shows two distinct bands of events from calibration sources in this parameter space; the black dots correspond to electron-recoils and the grey dots correspond to nuclear-recoils.
 
+<!--
 |  <img src="{{ site.relrefurl }}/Site_Materials/figures/er_nr.png" width="400" align="center"> |
 |-----------------------------|
 |Figure.2: Yield vs recoil-energy for Electron-Recoils and Nuclear-Recoils. |
-
+-->
 
 
 
