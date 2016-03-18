@@ -39,7 +39,7 @@ This is typically illustrated in a transformed parameter space of Yeild vs recoi
 <!--
 |  <img src="{{ site.relrefurl }}/Site_Materials/figures/er_nr.png" width="400" align="center"> |
 |-----------------------------|
-|Figure.2: Yield vs recoil-energy for Electron-Recoils and Nuclear-Recoils. |
+|Figure.2: Yield vs recoil-energy for Electron-Recoils and Nuclear-Recoils. Source: <http://dx.doi.org/10.1103/PhysRevD.72.052009>|
 -->
 
 
