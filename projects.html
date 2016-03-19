@@ -10,7 +10,8 @@ title: Projects
         {% if post.projects %}
             <div class="item {% if post.star == true %}star{% endif %}">
                 <a class="url" href="{{ site.url }}{{ post.url }}">
-                    <aside><time datetime="{{ post.date | date:"%Y" }}">{{ post.date | date: "%Y" }}</time></aside> <!-- Change to show only year kmp -->
+                    <aside><time datetime="{{ post.fromdate | date:"%Y" }}">{{ post.fromdate | date: "%Y" }}</time> - <time datetime="{{ post.date | date:"%Y" }}">{{ post.date | date: "%Y" }}</time></aside>
+                    <!-- Change to show only year kmp -->
                     {{ post.jemoji }}<h3 class="title">{{ post.title }}</h3>
                 </a>
             </div>
