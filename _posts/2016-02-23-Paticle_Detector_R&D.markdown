@@ -10,6 +10,7 @@ jemoji: '<img class="emoji" title=":graduation cap:" alt=":graduation cap:" src=
 ---
 
 ### Some background
+
 ###### Direct dark matter search
 
 Direct dark matter search is very active research area in experimental particle physics with strong competition among experiments. It attempts to detect dark matter particles from our own galaxy using terrestrial detectors. This would serve to confirm its existence as well as allow us to better understand dark-matter if it does exist. SuperCDMS is a leading experiment in this area and is collaboration of several university groups and national labs. The experiment is currently housed in the Soudan mine in northern Minnesota, US and is set to move to SNOLAB in Sudbury, Canada and upgrade its effort. Such an experiment is a rare event search, meaning it looks for a signal among a lot of noise (usually referred to as background). To be more explicit, such experiments typically keep track of individual events, which are interactions of a particle inside the detector. They also measure certain physical parameters such as energy, position, timing etc. for each such event. These backgrounds typically include ambient radioactivity, cosmogenic particles, intrinsic material radioactivity and other local effects. Such experiments rely heavily on reducing the background through several strategies including shielding, ensuring radio-purity of materials, vetoing known background events etc.. They further improve their sensitivity through clever design of detectors to eliminate significant portions of background events. They also try ascertain the expected amount and distribution of residual background events that cannot be distinguished from the signal through data analysis and simulations. Finally through a rigorous scientific analysis they ascertain if any candidate dark-matter particles were observed, i.e. of which there was a statistically significant excess in the data and a distribution of events that not as expected for the background events.
@@ -39,8 +40,7 @@ This is typically illustrated in a transformed parameter space of Yeild vs recoi
 
 |  <img src="{{ site.relrefurl }}/Site_Materials/figures/er_nr.png" width="400" align="center"> |
 |-----------------------------|
-|Figure.2: Yield vs recoil-energy for Electron-Recoils and Nuclear-Recoils. Source: APS Phys. Rev. D article 2005, <http://dx.doi.org/10.1103/PhysRevD.72.052009>|
-
+|Figure.2: Yield vs recoil-energy for Electron-Recoils (black) and Nuclear-Recoils (grey). Source: APS Phys. Rev. D article 2005, <http://dx.doi.org/10.1103/PhysRevD.72.052009>. © American Physical Society, used with permission.|
 
 
 
