@@ -1,5 +1,5 @@
 ---
-title: "Particle Detector R&D"
+title: "A modified particle detector concept with efficiency and performance benefits"
 layout: post
 date: 2013-01-23
 fromdate: 2010-01-01
@@ -47,7 +47,10 @@ This is typically illustrated in a transformed parameter space of Yeild vs recoi
 
 ### A modified detector design concept
 
-Scaling an experiment of this kind can involve several challenges, one of them being the challenge of producing reliable detectors with good efficiency of cost and effort. The question of whether it is possible to produce a detector which could offer these benefits without affecting performance led us to a modified detector design. The objective then was to compare performance of this alternative design to the one in use. This was a project carried out at Queen's University along with members of the SuperCDMS research group at Queen's and formed a major portion of my thesis project for MSc in Physics. This project was part of a larger detector R&D effort at the SuperCDMS collaboration targeted towards a larger version of the experiment in future.
+Scaling an experiment of this kind can involve several challenges, one of them being the challenge of producing reliable detectors with good efficiency of cost and effort. The question of whether it is possible to produce a detector which could offer these benefits without affecting performance led us to a modified detector design. The modified design featured phonon sensors on a single side instead of two sides as in the case of existing detector. This would reduce fabrication costs and effort and reduce the probability of defects per detector. If using half the number of sensors did not compromise the performance very much, this would make for a lucrative trade-off. The alternative design also offered the chance to re-configure the ionization sensors in way so as to discriminate against a special class of background events called multiple-surface-scatter events. The details are beyond the scope of this short article, so I would refer the interested reader to chapter 5 in my [thesis]().   
+
+
+ The objective then was to compare performance of this alternative design to the one in use. This was a project carried out at Queen's University along with members of the SuperCDMS research group at Queen's and formed a major portion of my thesis project for MSc in Physics. This project was part of a larger detector R&D effort at the SuperCDMS collaboration targeted towards a larger version of the experiment in future.
 
 This involved two phases. The first phase involved establishing proof of principle through analysis of existing data and analytic calculations. The second phase involved configuring a detector in the alternative design and validating the first phase through independent measurements (i.e. new data).
 
