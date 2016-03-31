@@ -3,10 +3,7 @@ title: "A modified particle detector concept with efficiency and performance ben
 layout: post
 date: 2013-01-23
 fromdate: 2010-01-01
-tag:
--particle-physics
--data-analysis
--research
+tag:-particle-physics-data-analysis-research
 img:
 projects: true
 description: "A modified detector concept: benefits and performance"
@@ -81,7 +78,6 @@ A detector was then configured according to the modified design and similar surf
 |  <img src="{{ site.relrefurl }}/Site_Materials/figures/hzp_lkg1.png" width="400" align="center"> |
 |-----------------------------|
 |Figure.5: Yield vs recoil-energy for the new data from the modified design. The light green, the blue and the red lines have same definitions as in figure.4. The dashed turquoise line is the lower threshold for the analysis. Two events marked as big green dots are seen in the signal region above the threshold and pass all other background discrimination methods. Source: Kedar Page [MSc thesis, 2013](http://cdms.berkeley.edu/Dissertations/page.pdf).|
-
 
 Figure.6 shows the Yield vs recoil energy for the original data from phase 1 which has the same configuration as the modified design i.e. using information from sensors on the side and with the same rest of the parameters.
 
