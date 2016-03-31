@@ -1,5 +1,5 @@
 ---
-title: "A modified particle detector concept with efficiency and performance benefits"
+title: "A modified particle detector concept with cost and performance benefits"
 layout: post
 date: 2013-01-23
 fromdate: 2010-01-01
@@ -34,7 +34,7 @@ The SuperCDMS particle detectors used at Soudan are cryogenic semiconductor dete
 
 |  <img src="{{ site.relrefurl }}/Site_Materials/figures/det_izp_photo.png" width="400" align="center"> |
 |-----------------------------|
-|Figure.1: A photo of superCDMS detector. Phonon sensors and charge sensors on the surface form an interleaved pattern. Source: AIP Appl. Phys. Lett. article 2013, <http://dx.doi.org/10.1063/1.4826093> |
+|Figure.1: A photo of superCDMS detector. Phonon sensors and charge sensors on the surface form an interleaved pattern Source: AIP Appl. Phys. Lett. article 2013, <http://dx.doi.org/10.1063/1.4826093> |
 
 
 
