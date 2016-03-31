@@ -3,7 +3,10 @@ title: "A modified particle detector concept with efficiency and performance ben
 layout: post
 date: 2013-01-23
 fromdate: 2010-01-01
-tag:-particle-physics-data-analysis-research
+tag:
+- particle-physics
+- data-analysis
+- research
 img:
 projects: true
 description: "A modified detector concept: benefits and performance"
