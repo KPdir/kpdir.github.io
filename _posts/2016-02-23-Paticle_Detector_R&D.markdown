@@ -28,17 +28,17 @@ Direct dark matter search is very active research area in experimental particle 
 
 #### SuperCDMS particle detectors
 
-The SuperCDMS particle detectors used at Soudan are cryogenic semiconductor detectors made. They measure the energy deposited by the particles interacting in the detector through a measurement of phonons (lattice vibrations) and ionization (electric charges released). They are solid cylinders of either Germanium or Silicon with phonon and ionization sensors on the top and bottom surfaces as shown in figure.1 below. A detailed account can be found here [1]
+The SuperCDMS particle detectors used at Soudan are cryogenic semiconductor detectors made. They measure the energy deposited by the particles interacting in the detector through a measurement of phonons (lattice vibrations) and ionization (electric charges released). They are solid cylinders of either Germanium or Silicon with phonon and ionization sensors on the top and bottom surfaces as shown in figure.1 below. The science of these sensors is very fascinating in itself and rather involved so I would refer the interested reader to article linked [here](http://cdms.berkeley.edu/papers/Appl.Phys.Lett.103.164105.pdf).
 
 
 
 |  <img src="{{ site.relrefurl }}/Site_Materials/figures/det_izp_photo.png" width="400" align="center"> |
 |-----------------------------|
-|Figure.1: A photo of superCDMS detector. Source: AIP Appl. Phys. Lett. article 2013, <http://dx.doi.org/10.1063/1.4826093> |
+|Figure.1: A photo of superCDMS detector. Phonon sensors and charge sensors on the surface form an interleaved pattern. Source: AIP Appl. Phys. Lett. article 2013, <http://dx.doi.org/10.1063/1.4826093> |
 
 
 
-The science of these sensors is very fascinating in itself and rather involved so I would refer the interested reader to article [2](). These two signals are then used in combination to distinguish candidate dark matter particles from a major source of background events called 'electron-recoils'. Electron-recoils are a class of events in which a large portion of the energy from interacting particle is absorbed by recoiling electrons in the detector material. In contrast, dark-matter particles and neutrons produce an interaction where the major portion of the energy deposited by the incoming particle is transferred to the nuclei in the detector material and are called 'nuclear-recoils'. This shows up as a difference in the ratio of the energy measured in the charge (ionization) channel vs the energy measured in the phonon (lattice vibration) channel. Figure.2 shows this difference.
+ These two signals are then used in combination to distinguish candidate dark matter particles from a major source of background events called 'electron-recoils'. Electron-recoils are a class of events in which a large portion of the energy from interacting particle is absorbed by recoiling electrons in the detector material. In contrast, dark-matter particles and neutrons produce an interaction where the major portion of the energy deposited by the incoming particle is transferred to the nuclei in the detector material and are called 'nuclear-recoils'. This shows up as a difference in the ratio of the energy measured in the charge (ionization) channel vs the energy measured in the phonon (lattice vibration) channel. Figure.2 shows this difference.
 
 
 |  <img src="{{ site.relrefurl }}/Site_Materials/figures/er_nr_schm.png" width="400" align="center"> |
