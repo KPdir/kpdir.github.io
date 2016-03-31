@@ -182,4 +182,4 @@ Do you want some videos? Youtube, Vimeo or Vevo? Copy the embed code and paste o
 
 ## Lets try some math here
 
-$$ \mathbf{X}\_{n,p} = \mathbf{A}\_{n,k} \mathbf{B}\_{k,p} $$
+$$ \mathbf{X}_{n,p} = \mathbf{A}_{n,k} \mathbf{B}_{k,p} $$
