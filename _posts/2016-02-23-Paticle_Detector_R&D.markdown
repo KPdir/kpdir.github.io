@@ -72,7 +72,7 @@ Using only half the information available mean't that we had to come up with new
 |-----------------------------|
 |Figure.4: Yield vs recoil-energy for a dataset with large number of electron-recoil events that happen close to the surface of the detector which are likely to leak into signal region due to reduced charge collection. Calibration data is used to define signal region (light green lines) and the electron recoil band (blue lines). These lines are 95% confidence interval or  $ 2\sigma $ lines. The red lines are the bottom and upper $3\sigma$ lines for the blue and the light green bands respectively. Primary source: Y.Ricci et al. SuperCDMS internal notes. Secondary source: Kedar Page [MSc thesis, 2013](http://cdms.berkeley.edu/Dissertations/page.pdf).|
 
-After re-defining quantities in terms of information available from sensors on a single side, the same analysis was carried out for different possible configurations. It was found that no new background events were added in any of these configurations.
+After re-defining quantities in terms of information available from sensors on a single side, the same analysis was carried out for different possible configurations. It was found that no new background events were added in any of these configurations.  $ 2\sigma $
 
 #### PHASE 2: Validation
 
