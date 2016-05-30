@@ -26,12 +26,12 @@ Drawing inspiration in part from the existing algorithms but also from a physica
 
 Figure.1 below is an example of such a fit. It can be noticed how the two templates get weighted and added together to produce a fit that closely follows the pulse. The longer and slower template which corresponds to the energy component always remains positive while the sign of the template corresponding to the direction is dependent on where the event occurs in the detector.
 
-|  <img src="{{ site.relrefurl }}/Site_Materials/figures/2Tfit_pulse_eg.png" width="400" align="center"> |
+|  <img src="{{ site.relrefurl }}/Site_Materials/figures/2Tfit_pulse_eg.png" width="500" align="center"> |
 |-----------------------------|
 |Figure.1: Example of a pulse fit from the modified algorithm. The black trace in the each plot corresponds to a sensor on the detector. The pulse shape of the signal on each sensor depends on the position of the event relative to that  sensor. The method of using two templates to works very well to account for the pulse shape. Source: SuperCDMS internal notes.|
 
 This resulted in an improved energy resolution as can be noticed in the narrowing of the peak of Barium gamma line events at 356 keV as shown in figure.2. It also lead to an improvement in the position estimation, but the discussion of that being somewhat more involved is skipped here.
 
-|  <img src="{{ site.relrefurl }}/Site_Materials/figures/Barium_Peak_res.png" width="400" align="center"> |
+|  <img src="{{ site.relrefurl }}/Site_Materials/figures/Barium_Peak_res.png" width="500" align="center"> |
 |-----------------------------|
 |Figure.2: The narrowing of the peak for the modified algorithm (2T in black) vs the existing algorithm (NF in green) shows the improvement in the energy resolution gained from the modification. Source: SuperCDMS internal notes.|
