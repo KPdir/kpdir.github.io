@@ -33,7 +33,7 @@ disqus: kpdirblog
 linkedin: kedarpage
 github: kpdir
 email: kedarpage@gmail.com
-rssfeed: true
+#rssfeed: true
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
