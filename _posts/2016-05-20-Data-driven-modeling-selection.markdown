@@ -30,7 +30,7 @@ The distribution of these background events was estimated at different radii and
 
 The clever strategy was to map the distribution of events from an activation line in Germanium. Figure.1 shows the distribution of events in the radius vs energy plane with the activation lines at about 10 and 1 keV. The events in the activation lines decreases exponentially over time as the number of active nuclei decreases obeying the decay law. Hence a time domain maximum likelihood estimation of two different signal amplitudes was carried out, one that decays exponentially with time and another that remains constant. Of course the part that decays is not of interest to the experiment and can be either omitted or accounted for statistically. However, these activation line events being homogenous inside the detector volume allow us to probe the field geometry in the detector and hence model the detector response at all places in the detector.
 
-|  <img src="{{ site.relrefurl }}/Site_Materials/figures/cdmslite_Rvs_E.png" width="500" align="center"> |
+|  <img src="{{ site.relrefurl }}/Site_Materials/figures/cdmslite_R_vs_E.png" width="500" align="center"> |
 |-----------------------------|
 |Figure.1: Distribution of events in the radius vs energy plane for two separate periods the experiment ran. Activation lines can be seen at 1 and 10 keV. The smearing of these lines due to the distortion in the electric field can be seen at high radii. Source: [CDMSlite 2016 paper](http://cdms.berkeley.edu/papers/PhysRevLett.116.071301.pdf)|
 
