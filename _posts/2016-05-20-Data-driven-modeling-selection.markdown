@@ -1,5 +1,5 @@
 ---
-title: "Improving measurement sensitivity through data-driven modeling of detector response and
+title: "Improving measurement sensitivity through
 fiducialization of particle detector volume"
 layout: post
 date: 2015-08-01
