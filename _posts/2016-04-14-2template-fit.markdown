@@ -1,12 +1,15 @@
 ---
 title: "Improved energy and position estimation in particle detectors"
 layout: post
-date: 2015-06-01
+date: 2014-06-01
 fromdate: 2013-10-01
 tag:
 - signal processing
 - data analysis
 - feature engineering
+- statistics
+- modeling
+- research
 projects: true
 description: "A technique for improved physical parameter estimators"
 jemoji: '<img class="emoji" title=":graduation cap:" alt=":graduation cap:" src="https://assets.github.com/images/icons/emoji/unicode/1f52c.png" height="20" width="20" align="absmiddle">'
