@@ -5,8 +5,11 @@ date: 2013-01-23
 fromdate: 2010-01-01
 tag:
 - particle-physics
-- data-analysis
+- data cleaning
+- data analysis
 - research
+- statistics
+- experiment design
 img:
 projects: true
 description: "A modified detector concept: benefits and performance"

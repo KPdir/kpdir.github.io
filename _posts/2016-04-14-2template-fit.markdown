@@ -35,3 +35,5 @@ This resulted in an improved energy resolution as can be noticed in the narrowin
 |  <img src="{{ site.relrefurl }}/Site_Materials/figures/Barium_Peak_res.png" width="500" align="center"> |
 |-----------------------------|
 |Figure.2: The narrowing of the peak for the modified algorithm (2T in black) vs the existing algorithm (NF in green) shows the improvement in the energy resolution gained from the modification. Source: SuperCDMS internal notes.|
+
+This project was carried out at Queen's University along with members of the SuperCDMS research group with me leading the effort.  
