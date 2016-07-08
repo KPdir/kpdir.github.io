@@ -24,7 +24,7 @@ Are you going on a trip soon but don't know what is the best time to leave so yo
 [findbesttime](https://kedarpage.shinyapps.io/findbesttime) tells you how much time you will end up spending in the traffic for different departure times. You'll have to enter the *origin* and *destination* addresses and the date of travel and hit Go! The app will produce a plot of *duration in traffic vs departure times* spanning the whole 24 hours on the selected date in the timezone of the *origin*. Based on the plot, you can pick a *departure time* that saves time and works the best for you.
 
 
-![screenshot](.Site_Materials/findbesttime_screenshot.png)
+![screenshot](../Site_Materials/findbesttime_screenshot.png)
 
 
 ###How does it work? Here's how:
