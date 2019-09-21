@@ -12,7 +12,7 @@ tag:
 - research
 projects: true
 description: "A technique for improved physical parameter estimators"
-jemoji: '<img class="emoji" title=":graduation cap:" alt=":graduation cap:" src="https://assets.github.com/images/icons/emoji/unicode/1f52c.png" height="20" width="20" align="absmiddle">'
+jemoji: '<img class="emoji" title=":graduation cap:" alt=":graduation cap:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f52c.png" height="20" width="20" align="absmiddle">'
 ---
 
 ## Summary

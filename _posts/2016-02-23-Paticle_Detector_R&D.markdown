@@ -13,7 +13,7 @@ tag:
 img:
 projects: true
 description: "A modified detector concept: benefits and performance"
-jemoji: '<img class="emoji" title=":graduation cap:" alt=":graduation cap:" src="https://assets.github.com/images/icons/emoji/unicode/1f393.png" height="20" width="20" align="absmiddle">'
+jemoji: '<img class="emoji" title=":graduation cap:" alt=":graduation cap:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png" height="20" width="20" align="absmiddle">'
 ---
 
 

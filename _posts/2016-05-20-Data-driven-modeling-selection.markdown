@@ -13,7 +13,7 @@ tag:
 - research
 projects: true
 description: "Improving sensitivity of measurement in a dark matter detector by data driven specification of good detector region"
-jemoji: '<img class="emoji" title=":graduation cap:" alt=":graduation cap:" src="https://assets.github.com/images/icons/emoji/unicode/1f52d.png" height="20" width="20" align="absmiddle">'
+jemoji: '<img class="emoji" title=":graduation cap:" alt=":graduation cap:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png" height="20" width="20" align="absmiddle">'
 ---
 
 ## Summary
