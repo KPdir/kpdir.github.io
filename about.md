@@ -8,17 +8,13 @@ permalink: /about/index.html
 <h2> About </h2>
 
 <p>
-Hi!! I am a data analyst based in Vancouver, BC. I enjoy working on a variety of problems both scientific and business related. I apply my understanding of statistics, machine learning (statistical learning), signal processing and optimization to derive insights from data and help make predictions. I am formally trained as an experimental physicist and before that as an electrical engineer but statistical data analysis has been a common theme in my work for the last five years. I am also an active member of the Vancouver Data science community and it's Kagglers subgroup. I very much enjoy working on Kaggle problems lately. I will be posting some solutions and a discussion of these  under <a href="http://kpdir.github.io/projects/">Projects</a>.
+Hi!! I am a Data Scientist based in Vancouver, BC. My expertise is Applied Statistics, Machine Learning and Signal Processing. My educational background is in Physics and Electrical Engineering. I have 5+ years of experience doing statistical data analysis and 2+ years of experience with Machine Learning. Most recently I have worked in the E-Commerce industry doing Analytics. Previously I worked for large scientific collaboration 
+searching for Dark Matter, one of the big mysteries of our Universe. 
 
- I am currently interested in predictive-analytics and web-analytics for businesses. I am a free and open source software enthusiast and love tinkering with stuff. I subscribe to the ideology that computer programs should be very readable and highly re-usable under most circumstances. I also believe that a picture is worth a thousand words, hence love cool visualizations of data.
-<br><br>
+I also enjoy working on independent projects that interest me, playing soccer and parenting :). I am a free and open source software enthusiast and love tinkering with stuff. I love learning more and more Linux and fiddling with computers (sometimes ill-advisedly!). 
 
-My other favourite activities include soccer, badminton, hiking, theatre, teaching and helping with <a href="http://software-carpentry.org/">SoftwareCarpentry</a> workshops on university campuses and spoiling my saturdays in the hope of understanding economics.
-<br><br>
+I'm involved in the community by doing workshops on data analysis and software tools for researchers and students through <a href="http://software-carpentry.org/">SoftwareCarpentry</a>. I also sometimes volunteer at <a href="https://www.freegeekvancouver.org">Free Geek</a> to reduce the impact of e-waste by repurposing used pc hardware. 
 
-Previously, as a researcher in the area of experimental particle physics,
-I worked on statistical data analysis and particle detector R&D for the dark-matter search experiment <a href="https://en.wikipedia.org/wiki/Cryogenic_Dark_Matter_Search/">SuperCDMS</a>. Some of my projects during this time are also described under <a href="http://kpdir.github.io/projects/">Projects</a>.
-<br><br>
+Checkout some of <a href="http://kpdir.github.io/projects/"> my projects here</a>.
 
-Feel free to email me if you'd like to get in touch.
-</p>
+If you'd like to hire me as consultant or just want to get in touch, feel free to <a class="link"  href="mailto:kedarpage@gmail.com" target="_blank"> email me.</a>
