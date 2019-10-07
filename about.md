@@ -8,8 +8,7 @@ permalink: /about/index.html
 <h2> About </h2>
 
 <p>
-Hi!! I am a Data Scientist based in Vancouver, BC. My expertise is Applied Statistics, Machine Learning and Signal Processing. I have 5+ years of experience doing statistical data analysis and 2+ years of experience with Machine Learning. My educational background is in Physics and Electrical Engineering. Most recently I have worked in the E-Commerce industry doing Analytics. Previously I worked for large scientific collaboration 
-searching for Dark Matter, one of the big mysteries of our Universe. 
+Hi!! I am a Data Scientist based in Vancouver, BC. My expertise is Applied Statistics, Machine Learning and Signal Processing. I have a background is in Physics and Electrical Engineering. Most recently I have worked in the E-Commerce industry doing Analytics. Previously, I have worked on text data analysis towards customer service AI and before that for large scientific collaboration searching for Dark Matter, one of the big mysteries of our Universe. 
 <br><br>
 I also enjoy working on independent projects that interest me, playing soccer and parenting :). I am a free and open source software enthusiast and love tinkering with stuff. I love learning more and more Linux and fiddling with computers (sometimes ill-advisedly!). 
 <br><br>
