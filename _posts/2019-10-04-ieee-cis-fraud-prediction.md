@@ -31,10 +31,10 @@ jemoji: '<img class="emoji" title=":graduation cap:" alt=":graduation cap:" src=
 
 The dataset for this Kaggle competetion was provided by Vesta Corporation. Vesta Corporation is a forerunner in guaranteed e-commerce payment solutions. 
 
-The dataset consisted of anonymized eCommerce transaction data which were labelled as "Fraud" or "Not Fraud". The task was to build a model that will predict whether a given transaction is "Fraud" or "Not Fraud" in new and unlabelled data. 
+The dataset consisted of anonymized eCommerce transaction data which were labelled as "**Fraud**" or "**Not Fraud**". The task was to build a binary classifier model that will predict whether a given transaction is "Fraud" or "Not Fraud" in new and unlabelled data. 
 
 Here's an exceprt from the competetion description:
-> <img src="{{ site.relrefurl }}/Site_Materials/figures/ieee-cis-logo.png" width="800" align="center">
+> <span><img src="{{ site.relrefurl }}/Site_Materials/figures/ieee-cis-logo.png" height="200" align="center"><img src="{{ site.relrefurl }}/Site_Materials/figures/ieee-cis-logo.png" height="200" align="center"></span>
 >In this competition, you’ll benchmark machine learning models on a challenging large-scale dataset. The data comes from Vesta's real-world e-commerce transactions and contains a wide range of features from device type to product features. You also have the opportunity to create new features to improve your results.
 
 >If successful, you’ll improve the efficacy of fraudulent transaction alerts for millions of people around the world, helping hundreds of thousands of businesses reduce their fraud loss and increase their revenue. And of course, you will save party people just like you the hassle of false positives.
