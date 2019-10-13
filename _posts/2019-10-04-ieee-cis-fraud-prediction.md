@@ -16,18 +16,18 @@ jemoji: '<img class="emoji" title=":graduation cap:" alt=":graduation cap:" src=
 ---
 ### Table Of Contents
 - [TL;DR](#tl;dr)
-- [About](#About)
+- [About](#about)
 - [Data Cleaning & Handling Missing Values](#data-cleaning-&-handling-missing-values)
 - [TL;DR](#tl;dr)
 - [TL;DR](#tl;dr)
 
 
 
-### <a href="tl;dr">TL;DR</a>
+### <a name="tl;dr">TL;DR</a>
 
 
 
-### <a href="About">About</a>
+### <a name="about">About</a>
 
 The dataset for this Kaggle competetion was provided by Vesta Corporation. Vesta Corporation is a forerunner in guaranteed e-commerce payment solutions. 
 
@@ -40,11 +40,10 @@ Here's an exceprt from the competetion description:
 >If successful, you’ll improve the efficacy of fraudulent transaction alerts for millions of people around the world, helping hundreds of thousands of businesses reduce their fraud loss and increase their revenue. And of course, you will save party people just like you the hassle of false positives.
 
 
+### EDA (Data Exploration)
+
 
 ### Data Cleaning & Handling Missing Values
-
-
-### EDA (Data Exploration)
 
 
 
