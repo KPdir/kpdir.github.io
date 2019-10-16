@@ -34,7 +34,7 @@ A RandomForest based Tree model was fit along with class weighting to handle cla
 
 <div style="text-align:center">
 <img src="{{ site.relrefurl }}/Site_Materials/figures/ieee-pipeline-schematic.png" style="height:400px">
-<span>Data Procecssing and Modeling Pipleine</span>
+<p>Data Procecssing and Modeling Pipleine</p>
 </div>
 
 ## Project Website 
