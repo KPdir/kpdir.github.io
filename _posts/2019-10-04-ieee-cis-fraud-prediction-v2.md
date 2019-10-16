@@ -32,6 +32,9 @@ The given dataset had 400+ features and ~1.2 million transactions, about half of
 
 A RandomForest based Tree model was fit along with class weighting to handle class-imbalance in the data (~96% of "Not Fraud"). The model was tuned to optimize for bias vs variance. A couple different Cross Validation (CV) strategies were used, which tried to replicate the train/test split closely. 
 
+<img src="{{ site.relrefurl }}/Site_Materials/figures/ieee-pipeline-schematic.png" style="height:400px;align:center">
+
 ## Project Website 
+
 
 
