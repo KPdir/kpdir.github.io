@@ -21,8 +21,8 @@ jemoji: '<img class="emoji" title=":graduation cap:" alt=":graduation cap:" src=
 Given anonymized eCommerce transaction data (tabular data) which were labelled "**Fraud**" or "**Not Fraud**", the task was to build a binary classifier model that will predict whether a given transaction is "Fraud" or "Not Fraud" in new data. The labeling logic for "Fraud" was as follows: If an eCommerce transaction was reported & and a chargeback was issued, then that transaction was labelled "Fraud". All the previous transactions by that person/account/card were also labelled "Fraud" for 120 days after the first report; subsequently removing the label if no more transactions were repoted by the customer.
 
 The dataset for this Kaggle competetion was provided by Vesta Corporation. Vesta Corporation is a forerunner in guaranteed e-commerce payment solutions. Here's an exceprt from the competetion description:
-
-> <p style="max-height:50px;text-align:center"><img src="{{ site.relrefurl }}/Site_Materials/figures/ieee-cis-logo.png" style="height:50px;display: inline; margin-right:20px"><img src="{{ site.relrefurl }}/Site_Materials/figures/Vesta-logo_200x.png" style="height:50px; display:inline; margin-left:20px" ></p><br>
+<br>
+> <p style="max-height:50px;text-align:center"><img src="{{ site.relrefurl }}/Site_Materials/figures/ieee-cis-logo.png" style="height:50px;display: inline; margin-right:20px"><img src="{{ site.relrefurl }}/Site_Materials/figures/Vesta-logo_200x.png" style="height:50px; display:inline; margin-left:20px" ></p>
 >In this competition, you’ll benchmark machine learning models on a challenging large-scale dataset. The data comes from Vesta's real-world e-commerce transactions and contains a wide range of features from device type to product features. You also have the opportunity to create new features to improve your results.
 >If successful, you’ll improve the efficacy of fraudulent transaction alerts for millions of people around the world, helping hundreds of thousands of businesses reduce their fraud loss and increase their revenue.
 
