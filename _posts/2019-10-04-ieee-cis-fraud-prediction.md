@@ -1,5 +1,5 @@
 ---
-title: "VESTA IEEE-CIS eCommerce Fraud Detection"
+title: "Vesta IEEE-CIS eCommerce Fraud Detection"
 layout: post
 date: 2019-10-04
 fromdate: 2019-09-04
@@ -14,7 +14,7 @@ img:
 projects: true
 drafts: true
 description: "Predict fraudulant transactions in eCommerce transactional data"
-jemoji: '<img class="emoji" title=":graduation cap:" alt=":graduation cap:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f697.png" height="20" width="20" align="absmiddle">'
+jemoji: '<img class="emoji" title=":graduation cap:" alt=":graduation cap:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b3.png?v8" height="20" width="20" align="absmiddle">'
 ---
 <!---
 ## Contents

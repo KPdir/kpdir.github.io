@@ -14,7 +14,7 @@ img:
 projects: true
 drafts: true
 description: "Predict trip type of customer visits to Walmart stores"
-jemoji: '<img class="emoji" title=":graduation cap:" alt=":graduation cap:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f697.png" height="20" width="20" align="absmiddle">'
+jemoji: '<img class="emoji" title=":graduation cap:" alt=":graduation cap:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f6d2.png?v8" height="20" width="20" align="absmiddle">'
 ---
 
 <div style="text-align:center">
