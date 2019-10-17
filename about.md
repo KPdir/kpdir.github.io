@@ -8,7 +8,7 @@ permalink: /about/index.html
 <h2> About </h2>
 
 <p>
-Hi!! I am a Data Scientist based in Vancouver, BC. My expertise is Applied Statistics, Machine Learning, Signal Processing and Software Development focussed on Data Analytics. Given my strong technical background and Business Analytics experience, I am able to work on a variety of problems across industry domains to come up with data-driven solutions to improve customer experiences, increase operational efficiency and drive up profitability. 
+Hi!! I am a Data Scientist based in Vancouver, BC. My expertise is Applied Statistics, Machine Learning, Signal Processing and Software Development focussed on Data Analytics. Given my strong technical background and Business Analytics experience, I am able to work on a variety of problems across industry domains to come up with data-driven solutions to improve customer experiences and to increase operational efficiency and profitability. 
 <br><br>
 Other than that, I enjoy working on independent projects that interest me, playing soccer and parenting :). I am a free and open source software enthusiast and love tinkering with electronics and computers (sometimes ill-advisedly!). 
 <br><br>
