@@ -30,12 +30,15 @@ The challenge here was to classify customer trips to Walmart stores into 38 dist
 
 ## <a name="solution"></a>Solution
 
-I came across this competetion after it had already ended but found it very interesting so decided to work on it. The appraoch that placed my model in the top 35% submitted models comprised of combining the power of multiple weaker classifiers optimally along with feature engineering to boost the predictive power of my model.
+I came across this competetion after it had already ended but found it very interesting and decided to work on it. 
 
+The appraoch that placed my model in the top 35% submitted models comprised of combining the power of multiple weaker classifiers optimally along with feature engineering to boost the predictive power of my model. Data was pre-processed and new features were created based on the model to be applied. For each visit, counts of items by department and by finer category, time based features and features based on missing data and product returns were created. Frequency encoding of high cardinality categorical variables like UPC numbers and finer category numbers were also created. 
+
+Bootstrapping was applied to Logistic Regression and KMeans classifiers to make them more robust. Finally 2-stage 5-fold Stacked Generalization was applied to combine the predictive power of the various models optimally.
 
 <div style="text-align:center">
-<img src="{{ site.relrefurl }}/Site_Materials/figures/walmart-triptype-pipeline-schematic.png" style="height:400px">
-<p> Figure: Data Procecssing and Modeling Pipleine</p>
+<img src="{{ site.relrefurl }}/Site_Materials/figures/walmart-triptype-pipeline-schematic.png" style="">
+<p> Figure: Data procecssing and modeling pipleine involving 2-stage stacking of different models with appropriately processed feature sets.</p>
 </div>
 
 ## <a name="project-website"></a>Project Website 
