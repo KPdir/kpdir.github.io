@@ -9,7 +9,7 @@ tag:
 - Data Cleaning
 - Data Analysis
 - Python
-img: <img src="{{ site.relrefurl }}/Site_Materials/figures/kaggle-logo-transparent-300.png">
+img: Site_Materials/figures/kaggle-logo-transparent-300.png
 projects: False
 drafts: true
 description: "Predict fraudulant transactions in eCommerce transactional data"
