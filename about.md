@@ -8,9 +8,9 @@ permalink: /about/index.html
 <h2> About </h2>
 
 <p>
-Hi!! I am a Data Scientist based in Vancouver, BC. I have a background is in Physics and Electrical Engineering. My expertise is Applied Statistics, Machine Learning and Signal Processing. I enjoy working on problems across industry domains to come up with data-driven solutions. I have worked in the eCommerce industry to come up with data-driven solutions to improve marketing outcomes, increase operational efficiency and profitability, and used data for coming up with new initiatives and ideas to grow business and benefit customers. Previously, I worked on applying techniques of Natural Language Processing (NLP) and machine learning towards building a customer service AI. Before that I worked for large scientific collaboration searching for Dark Matter, building data-pipelines and carrying out advanced statistical analysis on large datasets. 
+Hi!! I am a Data Scientist based in Vancouver, BC. My expertise is Applied Statistics, Machine Learning, Signal Processing and Software Development focussed on Data Analytics. I also have strong Business Analytics experience and work on problems across industry domains to come up with data-driven solutions to improve customer experiences and to increase operational efficiency and profitability. 
 <br><br>
-I also enjoy working on independent projects that interest me, playing soccer and parenting :). I am a free and open source software enthusiast and love tinkering with stuff. I love learning more and more of Linux and fiddling with computers (sometimes ill-advisedly!). 
+Other than that, I enjoy working on independent projects that interest me, playing soccer and parenting :). I am a free and open source software enthusiast and love tinkering with electronics and computers (sometimes ill-advisedly!). 
 <br><br>
 I'm involved in the community by doing workshops on data analysis and software tools for researchers and students through <a href="http://software-carpentry.org/">SoftwareCarpentry</a>. I also sometimes volunteer at <a href="https://www.freegeekvancouver.org">Free Geek</a> to reduce the impact of e-waste by repurposing used pc hardware. 
 <br><br>
