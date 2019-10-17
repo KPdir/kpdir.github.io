@@ -15,12 +15,12 @@ drafts: true
 description: "Predict fraudulant transactions in eCommerce transactional data"
 jemoji: '<img class="emoji" title=":graduation cap:" alt=":graduation cap:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f697.png" height="20" width="20" align="absmiddle">'
 ---
-
+<!---
 ## Contents
 1. [The Problem](#the-problem)
 2. [Solution](#solution)
 3. [Project Website](#project-website)
-
+-->
 
 ## <a name="the-problem"></a>The Problem
 
