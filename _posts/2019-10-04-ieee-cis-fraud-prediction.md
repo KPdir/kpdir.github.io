@@ -11,7 +11,7 @@ tag:
 - Python
 - eCommerce
 img: 
-projects: False
+projects: true
 drafts: true
 description: "Predict fraudulant transactions in eCommerce transactional data"
 jemoji: '<img class="emoji" title=":graduation cap:" alt=":graduation cap:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f697.png" height="20" width="20" align="absmiddle">'
@@ -49,7 +49,7 @@ A RandomForest based Tree model was fit along with class weighting to handle cla
 <p> Figure: Data Procecssing and Modeling Pipleine</p>
 </div>
 
-## <a name="project-website"></a>Project Website 
+## <a name="project-website"></a>Project Website (coming soon)
 For details and for code please see the <a href="">project website</a> on Github.
 
 

@@ -11,7 +11,7 @@ tag:
 - Python
 - Retail
 img:
-projects: False
+projects: true
 drafts: true
 description: "Predict trip type of customer visits to Walmart stores"
 jemoji: '<img class="emoji" title=":graduation cap:" alt=":graduation cap:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f697.png" height="20" width="20" align="absmiddle">'
@@ -41,5 +41,5 @@ Bootstrapping was applied to Logistic Regression and KMeans classifiers to make 
 <p> Figure: Data procecssing and modeling pipleine involving 2-stage stacking of different models with appropriately processed feature sets.</p>
 </div>
 
-## <a name="project-website"></a>Project Website 
+## <a name="project-website"></a>Project Website (coming soon)
 For details and for code please see the <a href="">project website</a> on Github.
