@@ -9,6 +9,7 @@ tag:
 - Data Cleaning
 - Data Analysis
 - Python
+- eCommerce
 img: 
 projects: False
 drafts: true
@@ -21,7 +22,6 @@ jemoji: '<img class="emoji" title=":graduation cap:" alt=":graduation cap:" src=
 2. [Solution](#solution)
 3. [Project Website](#project-website)
 -->
-
 <div style="text-align:center">
 <img src="{{ site.relrefurl }}/Site_Materials/figures/kaggle-logo-transparent-300.png" style="height:80px">
 </div>
@@ -30,14 +30,12 @@ jemoji: '<img class="emoji" title=":graduation cap:" alt=":graduation cap:" src=
 
 Given anonymized eCommerce transaction data which were labelled "**Fraud**" or "**Not Fraud**", the task was to build a binary classifier model that will predict whether a given transaction is "Fraud" or "Not Fraud" in new data. This challenging large-scale dataset had a wide range of features (400+) and ~1.2 million transactions, about half of which was labelled training data. 
 
+
+<div style="text-align:center"><img src="{{ site.relrefurl }}/Site_Materials/figures/rupixen-Q59HmzK38eQ-unsplash.jpg" style="height:350px;">
+<p>Credit: Photo by rupixen on Unsplash</p></div>
+
+
 The dataset for this Kaggle competetion was provided by Vesta Corporation and prepared in collaboration with IEEE-CIS. Vesta Corporation is a forerunner in guaranteed eCommerce payment solutions. The objective here is to improve the efficacy of fraudulent transaction alerts for millions of people around the world and reduce the loss due to fraud.
-
-<div style="max-height:50px;text-align:center"><img src="{{ site.relrefurl }}/Site_Materials/figures/web-hosting-em37kS8WJJQ-unsplash.jpg" style="height:200px;display: inline; margin-right:20px"><img src="{{ site.relrefurl }}/Site_Materials/figures/rupixen-Q59HmzK38eQ-unsplash.jpg" style="height:200px; display:inline; margin-left:20px" ></div>
-
-<!--
-Photo by rupixen on Unsplash
-Photo by Web Hosting on Unsplash
--->
 
 ## <a name="solution"></a>Solution
 The approach that put me in the top 50% of the competitors involved building a Tree based models with careful preprocessing and feature engineering. 
