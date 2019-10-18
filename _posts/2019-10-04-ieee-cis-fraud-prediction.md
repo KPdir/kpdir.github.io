@@ -38,9 +38,9 @@ Given anonymized eCommerce transaction data which were labelled "**Fraud**" or "
 The dataset for this Kaggle competetion was provided by Vesta Corporation and prepared in collaboration with IEEE-CIS. Vesta Corporation is a forerunner in guaranteed eCommerce payment solutions. The objective here is to improve the efficacy of fraudulent transaction alerts for millions of people around the world and reduce the loss due to fraud.
 
 ## <a name="solution"></a>Solution
-The approach that put me in the top 50% of the competitors involved building a Tree based models with careful preprocessing and feature engineering. 
+The approach that put me in the top 50% of the competitors involved building a Tree based model with careful preprocessing and feature engineering. 
 
-Preprocessing involved missing data imputation in numeric features, label-encoding of categorical features and removal of highly null columns. Given the nature of "Fraud" labelling logic, it made sense to indentify unique customers/card holders in the data. However as no personally identifiable data existed, proxies for unique-indentification were created using groups of loose identifiers. New features created included proxy-ID based aggregations, target likleihood encoding of interaction features and time based features.
+Preprocessing involved missing data imputation in numeric features, label-encoding of categorical features and removal of highly null columns. Given the nature of "Fraud" labelling logic, it was beneficial to indentify unique customers/card holders in the data. However as no personally identifiable data existed, proxies for unique-indentification were created using groups of loose identifiers. New features created included proxy-ID based aggregations, target likleihood encoding of interaction features and time based features.
 
 A RandomForest based Tree model was fit along with class weighting to handle class-imbalance in the data (~96% of "Not Fraud"). The model was tuned to optimize for bias vs variance. A couple different Cross Validation (CV) strategies were used, which tried to replicate the train/test split closely. 
 
