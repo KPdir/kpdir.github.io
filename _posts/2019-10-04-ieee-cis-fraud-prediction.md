@@ -52,4 +52,5 @@ A RandomForest based Tree model was fit along with class weighting to handle cla
 ## <a name="project-website"></a>Project Website (coming soon)
 For details and for code please see the <a href="">project website</a> on Github.
 
-
+## Acknowledgement and Disclaimer
+Kaggle has kindly permitted to use their logo for this website. However myself and this website are not officially connected to Kaggle. 
