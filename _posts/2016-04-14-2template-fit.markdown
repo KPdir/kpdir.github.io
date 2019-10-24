@@ -1,5 +1,5 @@
 ---
-title: "Dark Matter Search - Improving Signal to Noise in Particle Detectors."
+title: "Improving Signal-to-Noise in Particle Detectors."
 layout: post
 date: 2014-06-01
 fromdate: 2013-10-01

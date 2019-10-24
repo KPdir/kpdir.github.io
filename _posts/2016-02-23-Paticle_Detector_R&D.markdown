@@ -1,5 +1,5 @@
 ---
-title: "Dark Matter Search: A Statistical Analysis towards Particle Detector RnD."
+title: "Statistical Analysis for Particle Detector RnD."
 layout: post
 date: 2013-01-23
 fromdate: 2010-01-01

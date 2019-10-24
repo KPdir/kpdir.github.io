@@ -1,5 +1,5 @@
 ---
-title: "Dark Matter Search - Data driven modeling of experiment noise."
+title: "Data Driven Modeling in Dark Matter Search."
 layout: post
 date: 2015-08-01
 fromdate: 2014-09-01
