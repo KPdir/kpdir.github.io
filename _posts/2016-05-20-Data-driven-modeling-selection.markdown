@@ -1,6 +1,5 @@
 ---
-title: "Improving measurement sensitivity through
-fiducialization of particle detector volume"
+title: "Dark Matter Search - Data driven modeling of experiment noise."
 layout: post
 date: 2015-08-01
 fromdate: 2014-09-01

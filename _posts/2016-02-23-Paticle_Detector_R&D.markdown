@@ -1,5 +1,5 @@
 ---
-title: "A modified particle detector concept with cost and performance benefits"
+title: "Dark Matter Search: A Statistical Analysis towards Particle Detector RnD."
 layout: post
 date: 2013-01-23
 fromdate: 2010-01-01

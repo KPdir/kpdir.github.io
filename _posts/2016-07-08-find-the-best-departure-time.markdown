@@ -1,5 +1,5 @@
 ---
-title: "findbesttime - a web app that tells you when to leave so you can beat the traffic"
+title: "findbesttime: Beat the traffic - know when to leave on your trip."
 layout: post
 date: 2015-12-30
 fromdate: 2015-12-01
