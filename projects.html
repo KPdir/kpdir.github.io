@@ -9,16 +9,20 @@ title: Projects
     {% for post in site.posts %}
         {% if post.projects %}
             <div class="item {% if post.star == true %}star{% endif %}">
-                <a class="url" href="{{ site.url }}{{ post.url }}">
+                <a class="url" href="{{ site.url }}{{ post.url }}" style="margin-left:20%" >
+                    <!-- Completely hide date 
+                        moved margin-left to 20%.
                     <aside><time datetime="{{ post.date | date:"%Y" }}">{{ post.date | date: "%Y" }}</time></aside>
-                    <!-- Change to show only posted year kmp. For "from-year to posted-year" do:
+                    
+                    -- Change to show only posted year kmp. For "from-year to posted-year" do:
                     <aside><time datetime="{{ post.fromdate | date:"%Y" }}">{{ post.fromdate | date: "%Y" }}</time> - <time datetime="{{ post.date | date:"%Y" }}">{{ post.date | date: "%Y" }}</time></aside>
+                    -- 
                     -->
                     {{ post.jemoji }}<h3 class="title">{{ post.title }}</h3>
                 </a>
             </div>
         {% endif %}
     {% endfor %}
-</section>
+<!-- </section> -->
 
 {% include footer.html %}

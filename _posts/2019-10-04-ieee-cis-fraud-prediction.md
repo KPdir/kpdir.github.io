@@ -1,5 +1,5 @@
 ---
-title: "Vesta IEEE-CIS eCommerce Fraud Detection"
+title: "Predicting eCommerce Fraud - IEEE CIS VESTA"
 layout: post
 date: 2019-10-04
 fromdate: 2019-09-04
