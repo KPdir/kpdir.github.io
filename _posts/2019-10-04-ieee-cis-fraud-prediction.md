@@ -49,8 +49,8 @@ A RandomForest based Tree model was fit along with class weighting to handle cla
 <p> Figure: Data Procecssing and Modeling Pipleine</p>
 </div>
 
-## <a name="project-website"></a>Project Website (coming soon)
-For details and for code please see the <a href="">project website</a> on Github.
+## <a name="project-website"></a> Github Project Repository
+For details and for code please see the <a href="https://github.com/KPdir/kaggle_ieee_cis_vesta_fraud_detection/blob/master/notebooks/vesta_ieee_cis_ecommerce_fraud_detection.ipynb">project notebook</a> on Github.
 
 ## Acknowledgement and Disclaimer
 Kaggle has kindly permitted to use their logo for this website. However myself and this website are not officially connected to Kaggle. 
