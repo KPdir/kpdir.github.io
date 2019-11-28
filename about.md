@@ -5,12 +5,16 @@ permalink: /about/index.html
 ---
 <!-- ![Profile Image]({{ site.url }}/{{ site.picture }}) -->
 
-<h2> About </h2>
+<h2> About Me</h2>
 
 <p>
-Hi!! I am a Data Scientist based in Vancouver, BC. I have an expertise in Applied Statistics, Machine Learning, Signal Processing, Software Development and Web-Analytics. Given my strong technical background and Business Analytics experience, I am able to work on a variety of problems across industry domains to come up with data-driven solutions to improve customer experiences and to increase operational efficiency and profitability.
+<!--
+Hi!! I am a Data Scientist based in Vancouver, BC. I have an expertise in Applied Statistics, Machine Learning, Signal Processing, Software Development and Web-Analytics. Given my strong technical background and Business Analytics experience, I am able to work on a variety of problems across industry domains to come up with data-driven solutions to improve customer experiences and to increase operational efficiency and profitability. -->
+
+Hi!! I love numbers (real and imaginary). I make a living by giving your data a purpose. I have an expertise in Applied Statistics, Machine Learning, Signal Processing, Software Development and Web-Analytics. Given my strong technical background and Business Analytics experience, I am able to, and enjoy working on a variety of problems across industry domains to come up with elegant data-driven solutions. 
+
 <br><br>
-I enjoy uncovering hidden insights from data and learning new techniques in statistics, machine learning and software development. I also enjoy working on independent projects that interest me, playing soccer and parenting :). I am a free and open source software enthusiast and love tinkering with electronics and computers (sometimes ill-advisedly!). 
+When I'm not doing that, I love learning new techniques in statistics, machine learning, analytics and software development. I also enjoy working on independent projects that interest me, playing soccer and parenting :). I am a free and open source software enthusiast and love tinkering with electronics and computers (sometimes ill-advisedly!). 
 <br><br>
 I'm involved in the community by doing workshops on data analysis and software tools for researchers and students through <a href="http://software-carpentry.org/">SoftwareCarpentry</a>. I also sometimes volunteer at <a href="https://www.freegeekvancouver.org">Free Geek</a> to reduce the impact of e-waste by repurposing used pc hardware. 
 <br><br>

@@ -1,5 +1,5 @@
 ---
-title: "Data Driven Modeling in Dark Matter Search."
+title: "Data-driven modeling in Dark Matter search."
 layout: post
 date: 2015-08-01
 fromdate: 2014-09-01

@@ -1,5 +1,5 @@
 ---
-title: "Statistical Analysis for particle detector RnD."
+title: "Statistical analysis for particle detector RnD."
 layout: post
 date: 2013-01-23
 fromdate: 2010-01-01
