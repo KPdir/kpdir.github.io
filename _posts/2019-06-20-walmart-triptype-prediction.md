@@ -1,5 +1,5 @@
 ---
-title: "Predicting trip type of Walmart store visits"
+title: "Predicting trip type of Walmart store visits."
 layout: post
 date: 2019-06-30
 fromdate: 2019-06-01
