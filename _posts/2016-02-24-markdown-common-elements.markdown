@@ -2,11 +2,13 @@
 title: "Markdown Common Elements"
 layout: post
 date: 2016-02-24 22:44
+image: /assets/images/markdown.jpg
+headerImage: false
 tag:
 - markdown
 - elements
-blog: true
 star: true
+category: blog
 draft: false
 ---
 
@@ -106,13 +108,13 @@ There are six levels of headings. They correspond with the six levels of HTML he
 URLs can be made in a handful of ways:
 
 * A named link to [Mark It Down][3].
-* Another named link to [Mark It Down](http://markitdown.net/)
-* Sometimes you just want a URL like <http://markitdown.net/>.
+* Another named link to [Mark It Down](https://google.com/)
+* Sometimes you just want a URL like <https://google.com/>.
 
 {% highlight raw %}
 * A named link to [MarkItDown][3].
-* Another named link to [MarkItDown](http://markitdown.net/)
-* Sometimes you just want a URL like <http://markitdown.net/>.
+* Another named link to [MarkItDown](https://google.com/)
+* Sometimes you just want a URL like <https://google.com/>.
 {% endhighlight %}
 
 ---
@@ -136,7 +138,7 @@ Markdown can also contain images. I'll need to add something here sometime.
 ![Markdowm Image][/image/url]
 {% endhighlight %}
 
-![Markdowm Image][6]
+![Markdowm Image][5]
 
 *Figure Caption*?
 
@@ -145,7 +147,7 @@ Markdown can also contain images. I'll need to add something here sometime.
 <figcaption class="caption">Photo by John Doe</figcaption>
 {% endhighlight %}
 
-![Markdowm Image][6]
+![Markdowm Image][5]
 <figcaption class="caption">Photo by John Doe</figcaption>
 
 *Bigger Images*?
@@ -154,7 +156,7 @@ Markdown can also contain images. I'll need to add something here sometime.
 ![Markdowm Image][/image/url]{: class="bigger-image" }
 {% endhighlight %}
 
-![Markdowm Image][6]{: class="bigger-image" }
+![Markdowm Image][5]{: class="bigger-image" }
 
 ---
 
@@ -209,9 +211,8 @@ $(window).scroll(function() {
 });
 {% endhighlight %}
 
-[1]: http://daringfireball.net/projects/markdown/
-[2]: http://www.fileformat.info/info/unicode/char/2163/index.htm
-[3]: http://www.markitdown.net/
-[4]: http://daringfireball.net/projects/markdown/basics
-[5]: http://daringfireball.net/projects/markdown/syntax
-[6]: http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg
+[1]: https://daringfireball.net/projects/markdown/
+[2]: https://www.fileformat.info/info/unicode/char/2163/index.htm
+[3]: https://daringfireball.net/projects/markdown/basics
+[4]: https://daringfireball.net/projects/markdown/syntax
+[5]: https://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg

@@ -1,28 +1,18 @@
 ---
-layout: default
-permalink: /projects/index.html
+layout: page
 title: Projects
 ---
-{% include header.html %}
-
 <section class="list">
     {% for post in site.posts %}
         {% if post.projects %}
-            <div class="item {% if post.star == true %}star{% endif %}">
-                <a class="url" href="{{ site.url }}{{ post.url }}" style="margin-left:20%" >
-                    <!-- Completely hide date 
-                        moved margin-left to 20%.
-                    <aside><time datetime="{{ post.date | date:"%Y" }}">{{ post.date | date: "%Y" }}</time></aside>
-                    
-                    -- Change to show only posted year kmp. For "from-year to posted-year" do:
-                    <aside><time datetime="{{ post.fromdate | date:"%Y" }}">{{ post.fromdate | date: "%Y" }}</time> - <time datetime="{{ post.date | date:"%Y" }}">{{ post.date | date: "%Y" }}</time></aside>
-                    -- 
-                    -->
-                    {{ post.jemoji }}<h3 class="title">{{ post.title }}</h3>
+            <div class="item {% if post.star %}star{% endif %}">
+                <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+                    <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
+                    <h3 class="title">{{ post.title }}</h3>
                 </a>
             </div>
         {% endif %}
     {% endfor %}
-<!-- </section> -->
 
 {% include footer.html %}
+</section>
