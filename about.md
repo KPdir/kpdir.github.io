@@ -7,28 +7,26 @@ layout: page
 <h2> About Me</h2>
 
 <p>
-Hi!! I love numbers (real and imaginary). I make a living by giving your data a purpose. I have an expertise in Applied Statistics, Machine Learning, Signal Processing, Software Development and Web-Analytics. Given my strong technical background and Business Analytics experience, I am able to, and enjoy working on a variety of problems across industry domains to come up with elegant data-driven solutions. 
+I love numbers, real and imaginary, and make a living by giving data a purpose. I have had the chance to work on a number of interesting problems and lead proejcts in data science, analytics and data engineering over the years. This includes product analytics, experimentation, machine learning, building data pipelines, data modelling and reporting. So far my epxerinece has been in the e-commerce and SaaS space but I love working on data problems across different industry domains. To see details of my work experience, head over to my <a class="link"  href="https://linkedin.com/in/kedarpage/" target="_blank">LinkedIn page</a>.
 
 <br><br>
-When I'm not doing that, I love learning new techniques in statistics, machine learning, analytics and software development. I also enjoy working on independent projects that interest me, playing soccer and parenting :). I am a free and open source software enthusiast and love tinkering with electronics and computers (sometimes ill-advisedly!). 
+When I'm not working, I spend my time parenting, going on hikes, playing soccer and learning new things in statistics, machine learning, product analytics and software development.
 <br><br>
-I'm involved in the community by doing workshops on data analysis and software tools for researchers and students through <a href="http://software-carpentry.org/">SoftwareCarpentry</a>. I also sometimes volunteer at <a href="https://www.freegeekvancouver.org">Free Geek</a> to reduce the impact of e-waste by repurposing used pc hardware. 
+I also enjoy teaching and giving back to the academic community, so I have been involved in running workshops on data analysis and software tools for researchers and students through <a href="http://software-carpentry.org/">SoftwareCarpentry</a>. As the number of digital devices the world uses goes up, the amount of e-waste generated goes up too. I care deeply about recycling e-waste, so I sometimes volunteer at <a href="https://www.freegeekvancouver.org">Free Geek</a> to help reduce e-waste by revitalizing discarded hardware. 
 <br><br>
-Checkout some of <a href="http://kpdir.github.io/projects/"> my projects here</a>. If you like what you see and would like to hire me as a consultant for your data-science or analytics initiatives or just want to get in touch, feel free to <a class="link"  href="mailto:kedarpage@gmail.com" target="_blank"> email me</a> or <a class="link"  href="https://linkedin.com/in/kedarpage/" target="_blank">connect via Linkedin</a>.
+Checkout some of my <a href="http://kpdir.github.io/projects/">public projects here</a>. If you'd like to connect, say hello, collaborate or avail my services, don't hesitate to <a class="link"  href="mailto:kpageanalytics@gmail.com" target="_blank"> write to me</a> or <a class="link"  href="https://linkedin.com/in/kedarpage/" target="_blank">connect via LinkedIn</a>.
 
+Here's some things I am skilled at: 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
+	<li>SQL</li>
+	<li>Git</li>
+	<li>Apache Airflow, Apache Spark, DBT, Looker</li>
+	<li>Google Cloud Platform: BigQuery, Cloud Composer (Airflow), Cloud Build, Cloud Run, BigQueryML, VertexAI</li>
+	<li>HTML, CSS, JavaScript, Bootstrap</li>
+	<li>Python Web Frameworks: Django and Flask</li>
+	<li>JIRA, Confluence, Figma, Mermaid</li>
 	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Continuous Integration</li>
 </ul>
 
