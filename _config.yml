@@ -1,6 +1,6 @@
 # main text of home
 name: Kedar Page
-bio: 'Data Scientist | Analytics Consultant | Tinkerer'
+bio: 'Data Scientist & Analytics Consultant'
 
 # if it's an external image, update below for true
 # better with square images
@@ -12,12 +12,12 @@ url: http://kpdir.github.io
 relrefurl: https://raw.githubusercontent.com/KPdir/kpdir.github.io/master
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
-dark-theme: auto
+dark-theme: true
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
+resume: false
+resume-external: false
 resume-url: https://google.com/?q=my+resume
 
 permalink: /:title/
@@ -57,7 +57,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
