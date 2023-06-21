@@ -1,10 +1,10 @@
 ---
-title: "Findbesttime - An app to beat the rush hour traffic!"
+title: "App to help you skip the rush hour traffic!"
 layout: post
 date: 2015-12-30
 fromdate: 2015-12-01
 tag:
-- Web-apis
+- Web-APIs
 - Shiny
 - data cleaning
 - data analysis
