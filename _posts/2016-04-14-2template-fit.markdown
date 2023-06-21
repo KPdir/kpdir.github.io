@@ -1,5 +1,5 @@
 ---
-title: "Improving signal-to-noise in particle detectors."
+title: "Improving sensitivity of particle detectors."
 layout: post
 date: 2014-06-01
 fromdate: 2013-10-01
