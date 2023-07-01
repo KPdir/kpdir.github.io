@@ -15,12 +15,11 @@ When I'm not working, I spend my time parenting, going on hikes, playing soccer 
 I also enjoy teaching and giving back to the academic community, so I have been involved in running workshops on data analysis and software tools for researchers and students through <a href="http://software-carpentry.org/">SoftwareCarpentry</a>. As the number of digital devices the world uses goes up, the amount of e-waste generated goes up too. I care deeply about recycling e-waste, so I sometimes volunteer at <a href="https://www.freegeekvancouver.org">Free Geek</a> to help reduce e-waste by revitalizing discarded hardware. 
 <br><br>
 Checkout some of my <a href="http://kpdir.github.io/projects/">public projects here</a>. If you'd like to connect, say hello, collaborate or avail my services, don't hesitate to <a class="link"  href="mailto:kpageanalytics@gmail.com" target="_blank"> write to me</a> or <a class="link"  href="https://linkedin.com/in/kedarpage/" target="_blank">connect via LinkedIn</a>.
-
+<br><br>
 Here's some languages, tools and frameworks I have experience with: 
 <ul class="skill-list">
-	<li>Python</li>
-	<li>SQL</li>
-	<li>Git, Docker, Unix Shell</li>
+	<li><b>Languages:</b>Python, SQL</li>
+	<li><b>Developer Tools:</b> Git, Docker, Unix Shell</li>
 	<li><b>Data & Analytics Engineering:</b> Apache Airflow, Apache Spark, DBT</li>
 	<li><b>Dashboarding:</b> Looker, Data Studio, Tableau</li>
 	<li><b>Google Cloud Platform:</b> BigQuery, Cloud Composer (Airflow), Cloud Build</li>
