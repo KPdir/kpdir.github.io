@@ -16,17 +16,20 @@ I also enjoy teaching and giving back to the academic community, so I have been 
 <br><br>
 Checkout some of my <a href="http://kpdir.github.io/projects/">public projects here</a>. If you'd like to connect, say hello, collaborate or avail my services, don't hesitate to <a class="link"  href="mailto:kpageanalytics@gmail.com" target="_blank"> write to me</a> or <a class="link"  href="https://linkedin.com/in/kedarpage/" target="_blank">connect via LinkedIn</a>.
 
-Here's some things I am skilled at: 
+Here's some languages, tools and frameworks I have experience with: 
 <ul class="skill-list">
 	<li>Python</li>
 	<li>SQL</li>
-	<li>Git</li>
-	<li>Apache Airflow, Apache Spark, DBT, Looker</li>
-	<li>Google Cloud Platform: BigQuery, Cloud Composer (Airflow), Cloud Build, Cloud Run, BigQueryML, VertexAI</li>
-	<li>HTML, CSS, JavaScript, Bootstrap</li>
-	<li>Python Web Frameworks: Django and Flask</li>
-	<li>JIRA, Confluence, Figma, Mermaid</li>
-	<li>Scrum and Kanban</li>
-	<li>Continuous Integration</li>
+	<li>Git, Docker, Unix Shell</li>
+	<li>Data & Analytics Engineering: Apache Airflow, Apache Spark, DBT</li>
+	<li>Dashboarding: Looker, Data Studio, Tableau</li>
+	<li>Google Cloud Platform: BigQuery, Cloud Composer (Airflow), Cloud Build</li>
+	<li>Web Frontend: HTML, CSS, JavaScript, Bootstrap</li>
+	<li>Python Web-Frameworks: Django and Flask</li>
+	<li>Productivity, diagramming and documentation: JIRA, Confluence, Figma, MermaidJS</li>
+	<li>Analytics: Google Analytics, PostHog, Snowplow, HotJar </li>
+	<li>Experimentation: Optimizely, Google Optimize</li>
+	<li>Productivity & Collaboration: Scrum and Kanban</li>
+	<li>Development Methodology: Agile, CI-CD</li>
 </ul>
 
