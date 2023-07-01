@@ -21,15 +21,15 @@ Here's some languages, tools and frameworks I have experience with:
 	<li>Python</li>
 	<li>SQL</li>
 	<li>Git, Docker, Unix Shell</li>
-	<li>Data & Analytics Engineering: Apache Airflow, Apache Spark, DBT</li>
-	<li>Dashboarding: Looker, Data Studio, Tableau</li>
-	<li>Google Cloud Platform: BigQuery, Cloud Composer (Airflow), Cloud Build</li>
-	<li>Web Frontend: HTML, CSS, JavaScript, Bootstrap</li>
-	<li>Python Web-Frameworks: Django and Flask</li>
-	<li>Productivity, diagramming and documentation: JIRA, Confluence, Figma, MermaidJS</li>
-	<li>Analytics: Google Analytics, PostHog, Snowplow, HotJar </li>
-	<li>Experimentation: Optimizely, Google Optimize</li>
-	<li>Productivity & Collaboration: Scrum and Kanban</li>
-	<li>Development Methodology: Agile, CI-CD</li>
+	<li>**Data & Analytics Engineering:** Apache Airflow, Apache Spark, DBT</li>
+	<li>**Dashboarding:** Looker, Data Studio, Tableau</li>
+	<li>**Google Cloud Platform:** BigQuery, Cloud Composer (Airflow), Cloud Build</li>
+	<li>**Web Frontend:** HTML, CSS, JavaScript, Bootstrap</li>
+	<li>**Python Web-Frameworks:** Django and Flask</li>
+	<li>**Productivity, diagramming and documentation:** JIRA, Confluence, Figma, MermaidJS</li>
+	<li>**Analytics tools:** Google Analytics, PostHog, Snowplow, HotJar </li>
+	<li>**Experimentation:** Optimizely, Google Optimize</li>
+	<li>**Productivity & Collaboration:** Scrum and Kanban</li>
+	<li>**Development Methodology:** Agile, CI-CD</li>
 </ul>
 
