@@ -18,7 +18,7 @@ Checkout some of my <a href="http://kpdir.github.io/projects/">public projects h
 <br><br>
 Here's some languages, tools and frameworks I have experience with: 
 <ul class="skill-list">
-	<li><b>Languages:</b>Python, SQL</li>
+	<li><b>Languages:</b> Python, SQL</li>
 	<li><b>Developer Tools:</b> Git, Docker, Unix Shell</li>
 	<li><b>Data & Analytics Engineering:</b> Apache Airflow, Apache Spark, DBT</li>
 	<li><b>Dashboarding:</b> Looker, Data Studio, Tableau</li>
@@ -26,8 +26,8 @@ Here's some languages, tools and frameworks I have experience with:
 	<li><b>Web Frontend:</b> HTML, CSS, JavaScript, Bootstrap</li>
 	<li><b>Python Web-Frameworks:</b> Django and Flask</li>
 	<li><b>Productivity, diagramming and documentation:</b> JIRA, Confluence, Figma, MermaidJS</li>
-	<li><b>Analytics tools:</b> Google Analytics, PostHog, Snowplow, HotJar </li>
-	<li><b>Experimentation:</b> Optimizely, Google Optimize</li>
+	<li><b>Web & Product Analytics:</b> Google Analytics, PostHog, Snowplow, HotJar </li>
+	<li><b>Experimentation:</b> Optimizely, Google Optimize, PostHog</li>
 	<li><b>Productivity & Collaboration:</b> Scrum and Kanban</li>
 	<li><b>Development Methodology:</b> Agile, CI-CD</li>
 </ul>
